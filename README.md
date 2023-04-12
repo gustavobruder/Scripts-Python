@@ -6,6 +6,7 @@ Este projeto teve como base vídeos, artigos, blogs, fóruns e outras fontes de 
 
 ## Links Utilizados
 
-01. [Script 01](https://www.google.com/)
-02. [Script 02](https://www.google.com/)
-03. [Script 03](https://www.google.com/)
+01. [Código Morse](https://github.com/Python-World/python-mini-projects/blob/master/projects/text_to_morse_code/text_to_morse_code.py)
+02. [Senha Aleatória](https://github.com/Python-World/python-mini-projects/blob/master/projects/Random_password_generator/python-password-generator.py)
+03. [Código QR Encode](https://github.com/Python-World/python-mini-projects/blob/master/projects/Qr_code_generator/generate_qrcode.py) e [Código QR Decode](https://note.nkmk.me/en/python-pyzbar-barcode-qrcode/)
+04. [Notificação Desktop](https://python.plainenglish.io/how-to-send-desktop-notifications-with-python-62a738850fbf)
