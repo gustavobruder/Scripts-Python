@@ -8,6 +8,7 @@ qrcode = "*"
 plyer = "*"
 pyzbar = "*"
 pillow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
