@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 qrcode = "*"
 plyer = "*"
+pyzbar = "*"
+pillow = "*"
 
 [dev-packages]
 
