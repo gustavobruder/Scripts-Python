@@ -10,6 +10,7 @@ pyzbar = "*"
 pillow = "*"
 matplotlib = "*"
 tqdm = "*"
+python-barcode = "*"
 
 [dev-packages]
 
