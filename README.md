@@ -11,3 +11,5 @@ Este projeto teve como base vídeos, artigos, blogs, fóruns e outras fontes de 
 03. [Código QR Encode](https://github.com/Python-World/python-mini-projects/blob/master/projects/Qr_code_generator/generate_qrcode.py) e [Código QR Decode](https://note.nkmk.me/en/python-pyzbar-barcode-qrcode/)
 04. [Notificação Desktop](https://python.plainenglish.io/how-to-send-desktop-notifications-with-python-62a738850fbf)
 05. [Gráficos](https://matplotlib.org/)
+06. [Barra Progresso](https://github.com/tqdm/tqdm)
+07. [Código Barras](https://pypi.org/project/python-barcode/)
