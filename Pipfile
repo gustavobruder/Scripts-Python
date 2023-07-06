@@ -9,6 +9,7 @@ plyer = "*"
 pyzbar = "*"
 pillow = "*"
 matplotlib = "*"
+tqdm = "*"
 
 [dev-packages]
 
